@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+Debug/
+Release/
+x64/
+Win32/
+obj/
+bin/
+
+# Скомпилированные файлы
+*.exe
+*.obj
+*.o
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+
+# macOS
+.DS_Store
+
+# Твои DLL (если хочешь загрузить их отдельно — удали эту строку)
+# *.dll
